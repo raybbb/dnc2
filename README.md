@@ -1,7 +1,7 @@
 # safenetspace2
 safenetspace2 (darknetspace &amp; darknetcoin )
 
-Winows平台版本
+# Winows平台版本
 
 dnsd/simplewallet与darknetspacewallet编译：
 
@@ -47,7 +47,7 @@ dnsd/simplewallet与darknetspacewallet编译：
 
 
 
-Linux平台版本
+# Linux平台版本
 
 dnsd与simplewallet编译
 
