@@ -4,9 +4,9 @@ safenetspace2 (darknetspace &amp; darknetcoin )
 Winows平台版本
 dnsd/simplewallet与darknetspacewallet编译：
 1.安装依赖库
-a) 安装cmake2.8.6或者之后的版本，下载地址：https://cmake.org/download/
-b) 安装boost1.55或者之后的版本，下载地址：
-https://sourceforge.net/projects/boost/files/boost/1.56.0/
+  a) 安装cmake2.8.6或者之后的版本，下载地址：https://cmake.org/download/
+  b) 安装boost1.55或者之后的版本，下载地址：
+      https://sourceforge.net/projects/boost/files/boost/1.56.0/
 2.下载源码https://github.com/BankLedger/safenetspace2到本地目录
 3.打开命令行工具（cmd），cd进入源码根目录
 a)cryptonote目录是dnsd与simplewallet项目
