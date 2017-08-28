@@ -2,7 +2,9 @@
 safenetspace2 (darknetspace &amp; darknetcoin )
 
 Winows平台版本
+
 dnsd/simplewallet与darknetspacewallet编译：
+
 1.安装依赖库
   a) 安装cmake2.8.6或者之后的版本，下载地址：https://cmake.org/download/
   b) 安装boost1.55或者之后的版本，下载地址：
