@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\build\CMakeFiles\aac3641196b23cfb2df9e703e83844dc\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{20FE615F-E0E8-3DA7-99F5-4BA7C06CB544}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

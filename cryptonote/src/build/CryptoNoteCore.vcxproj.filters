@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Account.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Blockchain.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\BlockchainIndices.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\BlockchainMessages.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\BlockIndex.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Checkpoints.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Core.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CoreConfig.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteBasic.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteBasicImpl.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteFormatUtils.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteSerialization.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteTools.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Currency.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\DepositIndex.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Difficulty.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\IBlock.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\ITimeProvider.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Miner.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\MinerConfig.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\SwappedMap.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\SwappedVector.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Transaction.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionExtra.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionPool.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionPrefixImpl.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionUtils.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\UpgradeDetector.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Account.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Blockchain.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\BlockchainIndices.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\BlockchainMessages.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\BlockIndex.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Checkpoints.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Core.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CoreConfig.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteBasic.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteBasicImpl.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteFormatUtils.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteSerialization.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteStatInfo.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\CryptoNoteTools.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Currency.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\DepositIndex.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Difficulty.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\IBlock.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\IBlockchainStorageObserver.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\ICore.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\ICoreObserver.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\IMinerHandler.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\IntrusiveLinkedList.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\ITimeProvider.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\ITransactionValidator.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\ITxPoolObserver.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\MessageQueue.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\Miner.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\MinerConfig.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\OnceInInterval.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\SwappedMap.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\SwappedVector.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionApi.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionApiExtra.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionExtra.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionPool.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\TransactionUtils.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\UpgradeDetector.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteCore\VerificationContext.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CryptoNoteConfig.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

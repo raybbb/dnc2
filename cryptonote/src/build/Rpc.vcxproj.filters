@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\HttpClient.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\HttpServer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\JsonRpc.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\RpcServer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\RpcServerConfig.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\CoreRpcServerCommandsDefinitions.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\CoreRpcServerErrorCodes.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\HttpClient.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\HttpServer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\JsonRpc.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\RpcServer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Rpc\RpcServerConfig.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

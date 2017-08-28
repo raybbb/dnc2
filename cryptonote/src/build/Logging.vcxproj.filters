@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\CommonLogger.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\ConsoleLogger.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\FileLogger.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\ILogger.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerGroup.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerManager.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerMessage.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerRef.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\StreamLogger.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\CommonLogger.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\ConsoleLogger.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\FileLogger.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\ILogger.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerGroup.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerManager.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerMessage.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\LoggerRef.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Logging\StreamLogger.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

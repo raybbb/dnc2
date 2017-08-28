@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\BinaryInputStreamSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\BinaryOutputStreamSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\JsonInputStreamSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\JsonInputValueSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\JsonOutputStreamSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\KVBinaryInputStreamSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\KVBinaryOutputStreamSerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\MemoryStream.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\SerializationOverloads.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\BinaryInputStreamSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\BinaryOutputStreamSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\BinarySerializationTools.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\ISerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\IStream.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\JsonInputStreamSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\JsonInputValueSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\JsonOutputStreamSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\KVBinaryCommon.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\KVBinaryInputStreamSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\KVBinaryOutputStreamSerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\MemoryStream.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\SerializationOverloads.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Serialization\SerializationTools.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

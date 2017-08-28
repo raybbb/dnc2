@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\LegacyKeysImporter.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletAsyncContextCounter.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletErrors.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletGreen.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletRpcServer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletSerialization.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletUtils.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\KeysStorage.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletHelper.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacy.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacySerialization.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacySerializer.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletTransactionSender.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletUnconfirmedTransactions.cpp" />
+    <ClCompile Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletUserTransactionsCache.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\IFusionManager.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\LegacyKeysImporter.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletAsyncContextCounter.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletErrors.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletGreen.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletIndices.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletRpcServer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletRpcServerCommandsDefinitions.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletRpcServerErrorCodes.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletSerialization.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\Wallet\WalletUtils.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\KeysStorage.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletDepositInfo.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletHelper.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacy.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacyEvent.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacySerialization.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletLegacySerializer.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletRequest.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletSendTransactionContext.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletTransactionSender.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletUnconfirmedTransactions.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletUserTransactionsCache.h" />
+    <ClInclude Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\WalletLegacy\WalletUtils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\work\GitHub\darknetspacewallet_bmwork\cryptonote\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
