@@ -44,17 +44,19 @@ dnsd/simplewallet与darknetspacewallet编译：
 
 
 
+
+
 Linux平台版本
 
 dnsd与simplewallet编译
 
 1.安装依赖库
 
-  sudo add-apt-repository ppa:boost-latest/ppa
+    sudo add-apt-repository ppa:boost-latest/ppa
   
-  sudo apt-get update
+    sudo apt-get update
   
-  sudo apt-get -y install gcc-4.8 g++-4.8 libboost1.55-all-dev git cmake
+    sudo apt-get -y install gcc-4.8 g++-4.8 libboost1.55-all-dev git cmake
   
 2.下载源码https://github.com/BankLedger/safenetspace2到本地目录
 
